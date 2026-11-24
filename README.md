@@ -2,7 +2,7 @@
 
 # NEXORA
 
-**A free Windows 11 optimizer for gamers, VR players and everyday PCs — where every change is backed up, checked, and undoable.**
+**A free Windows 11 optimizer for gamers and everyday PCs — where every change is backed up, checked, and undoable.**
 
 [**⬇ Download the latest version**](https://github.com/Gubbylord/nexora/releases/latest)
 
@@ -16,8 +16,10 @@ NEXORA tunes Windows for smoother games and lower input lag using researched, do
 
 - **One switch per tweak.** Flip it on, watch it back up your setting, apply the change and verify it worked. Flip it off and your *original* value comes back — not a guess at the Windows default.
 - **Recommended for your PC.** NEXORA reads your hardware (CPU, GPU, RAM, drives, display, laptop or desktop) and only recommends what fits. Tweaks that don't apply to your PC are clearly marked.
-- **Every area covered:** CPU, GPU (NVIDIA / AMD / Intel guides), RAM, BIOS guides, drives, power, Windows, privacy, network, input lag and VR.
+- **Every area covered:** CPU, GPU (NVIDIA / AMD / Intel guides), RAM, BIOS guides, drives, power, Windows, privacy, network and input lag.
 - **Game library + Game Boost.** Finds your Steam, Epic, Xbox, Riot, Roblox and Minecraft games, launches them with temporary optimizations, and undoes them when you quit.
+- **One-click Debloat.** Simple Windows 10 and Windows 11 buttons remove only researched, safe bloatware for your account — drivers, security, Xbox/Game Pass and your files are kept. You see the exact list and get a restore point first.
+- **Hardware-matched presets.** One-click profiles from Low-End to High-End, plus a **Maximum Performance** profile — built only from tweaks that fit your PC, and fully reversible.
 - **Live monitoring.** CPU / GPU / RAM / VRAM graphs, a real FPS counter and an in-game overlay (Alt+Shift+F), plus benchmarks that tell you whether a change actually helped.
 - **Fixes page.** Spots risky changes other "optimizer" tools left behind and explains them.
 - **Updates itself.** New versions download in the background and install when you close NEXORA.
