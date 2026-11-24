@@ -35,11 +35,12 @@ NEXORA tunes Windows for smoother games and lower input lag using researched, do
 
 ## Install
 
-1. Download **`NEXORA-x.x.x-win-x64.zip`** from the [latest release](https://github.com/Gubbylord/nexora/releases/latest).
-2. Unzip it anywhere you like (for example your Documents folder).
-3. Run **`Nexora.exe`**. Setup walks you through everything and changes nothing on its own.
+1. Download **[`Nexora.exe`](https://github.com/Gubbylord/nexora/releases/latest/download/Nexora.exe)** from the latest release.
+2. Put it wherever you like (for example a "NEXORA" folder in Documents) and double-click it.
+3. Setup walks you through everything and changes nothing on its own.
 
-No installer and no .NET download needed. After this first download, NEXORA keeps itself up to date.
+It's a single file — no installer, no ZIP, no .NET download. After this first download, NEXORA keeps itself up to date.
+(The `NEXORA-x.x.x-win-x64.zip` on the release page is the automatic-update package; you don't need it.)
 
 > **Windows SmartScreen warning?** NEXORA isn't code-signed yet, so Windows may say it "protected your PC". Click **More info → Run anyway**.
 
